@@ -1,5 +1,5 @@
 # 5_BT_bangCuuChuong
-iết một ứng dụng để in ra trang web một bảng cửu chương
+Viết một ứng dụng để in ra trang web một bảng cửu chương
 Cách 1:
 <!DOCTYPE html>
 <html lang="en">
